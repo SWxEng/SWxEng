@@ -6,5 +6,8 @@ Matrix ماتريكس
 عداد زوار ملف الشخصي 
 
 
-[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/week.md)
+<p align="center"> 
+  You are visitor number: <br>
+  <img src="https://profile-counter.glitch.me/Hoy-Der/count.svg" />
+</p>
 

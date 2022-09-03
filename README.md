@@ -1,6 +1,6 @@
 <p style="text-align: center;"><span style="color: #008000;">
-<strong>Matrix ماتريكس</strong></span> &nbsp;</p>
-<p>&nbsp;</p>
+<p align="center"><strong>Matrix ماتريكس</strong></span> &nbsp;</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55116927/188287440-8b8410dd-307a-4109-9a1f-c83a4285101a.gif" />
 <hr style="border: solid;" />
 <p align="center"><span style="background-color: #ffffff; color: #008000;">
 <strong>Profile Visit Counter : عداد زوار ملف الشخصي</strong></span></p>

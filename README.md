@@ -14,7 +14,7 @@
 
 
 <table align="center">
-<th>Support Me on ادعمني</th></tr>
+<th>Support Me on Buy Me a Coffee ادعمني</th></tr>
 
 </td><td>
 

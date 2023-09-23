@@ -33,7 +33,7 @@
  ------------------------------------------------------------------------------------------------
  
 <h3 align="left"> Support : ادعمني </h3>
-<p><a href="https://www.buymeacoffee.com/Eng.SW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="engsw" /></a><a href="https://ko-fi.com/engsw"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="engsw" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/?via=Eng.SW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="engsw" /></a><a href="https://ko-fi.com/engsw"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="engsw" /></a></p><br><br>
 
  
 
